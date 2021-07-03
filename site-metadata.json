@@ -37,7 +37,7 @@
     },
     "footer": {
         "content": "&copy; Carson Wright LLC. All rights reserved.",
-        "has_social": false,
+        "has_social": true,
         "social_links": [
             {
                 "label": "Twitter",

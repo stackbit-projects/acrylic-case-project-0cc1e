@@ -10,6 +10,14 @@ sections:
       case](test.com) files for building mechanical keyboards, as well as
       running periodic group buys to lower the cost of entry.
     title: Welcome to The Acrylic Case Project
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles

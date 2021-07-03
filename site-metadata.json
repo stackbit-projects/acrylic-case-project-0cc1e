@@ -69,7 +69,7 @@
             },
             {
                 "label": "My Site",
-                "url": "#",
+                "url": "carsonwright.me",
                 "style": "link",
                 "icon": "github",
                 "new_window": false,

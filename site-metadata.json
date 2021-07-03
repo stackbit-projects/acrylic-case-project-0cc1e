@@ -72,7 +72,7 @@
                 "url": "https://carsonwright.me",
                 "style": "link",
                 "icon": "github",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false,
                 "type": "action"
             }

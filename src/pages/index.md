@@ -9,7 +9,7 @@ sections:
       accessible by providing free and open source [stacked acrylic
       case](test.com) files for building mechanical keyboards, as well as
       running periodic group buys to lower the cost of entry.
-    title: Acrylic Case Project
+    title: Welcome to The Acrylic Case Project
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles

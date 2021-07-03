@@ -4,10 +4,11 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      The Acrylic Case Project aims to make the mechanical keyboard hobby more
+      accessible by providing free and open source [stacked acrylic
+      case](test.com) files for building mechanical keyboards, as well as
+      running periodic group buys to lower the cost of entry.
     title: Acrylic Case Project
   - type: portfolio_section
     section_id: latest-projects

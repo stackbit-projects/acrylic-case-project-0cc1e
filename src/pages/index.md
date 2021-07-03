@@ -8,7 +8,7 @@ sections:
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
       talk](/contact/).
-    title: Free and open source acrylic case files for all.
+    title: Acrylic Case Project
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles

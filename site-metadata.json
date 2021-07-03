@@ -63,17 +63,7 @@
                 "type": "action"
             }
         ],
-        "links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ]
+        "links": []
     },
     "title": "Stackbit Agency Theme",
     "domain": "https://acrylic-case-project-0cc1e.netlify.app"

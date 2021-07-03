@@ -11,7 +11,7 @@ sections:
       running periodic group buys to lower the cost of entry.
     title: Welcome to The Acrylic Case Project
     actions:
-      - label: lorem-ipsum
+      - label: Purchase
         url: '#'
         style: button
         icon: dribbble

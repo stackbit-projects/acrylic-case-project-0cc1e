@@ -27,7 +27,7 @@ sections:
         type: action
   - type: portfolio_section
     section_id: latest-projects
-    layout_style: mosaic
+    layout_style: tiles
     title: Keyboards
     subtitle: PCBs We Support
     projects_number: 6

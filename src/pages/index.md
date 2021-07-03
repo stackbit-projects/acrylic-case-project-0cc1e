@@ -11,14 +11,14 @@ sections:
       running periodic group buys to lower the cost of entry.
     title: Welcome to The Acrylic Case Project
     actions:
-      - label: Purchase
+      - label: Learn More
         url: '#'
         style: button
         icon: dribbble
         new_window: false
         no_follow: false
         type: action
-      - label: Learn More
+      - label: Purchase
         url: '#'
         style: button
         icon: dribbble

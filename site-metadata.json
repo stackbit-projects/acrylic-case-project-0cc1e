@@ -41,7 +41,7 @@
         "social_links": [
             {
                 "label": "Github",
-                "url": "https://twitter.com/",
+                "url": "https://github.com/",
                 "style": "icon",
                 "icon": "twitter",
                 "new_window": true

@@ -1,5 +1,5 @@
 ---
-title: Nature Magazine
+title: Wilba Tech WT60-D Weirdflex
 subtitle: Editorial Design
 date: '2021-01-10'
 thumb_image: images/work-magazine-1-thumb.jpg

@@ -68,7 +68,7 @@
                 "new_window": true
             },
             {
-                "label": "lorem-ipsum",
+                "label": "My Site",
                 "url": "#",
                 "style": "link",
                 "icon": "github",

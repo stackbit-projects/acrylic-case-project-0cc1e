@@ -33,22 +33,6 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-  - section_id: lorem-ipsum
-    title: What Is A Stacked Acrylic Case?
-    image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: content_section
-    subtitle: 'Learn about '
   - type: grid_section
     section_id: clients
     title: Clients

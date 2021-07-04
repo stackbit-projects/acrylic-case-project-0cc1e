@@ -6,7 +6,7 @@
         "title": "ACP",
         "logo": "images/logo.svg",
         "logo_alt": "Agency logo",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",

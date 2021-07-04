@@ -35,7 +35,7 @@ sections:
     view_all_url: portfolio
   - type: cta_section
     section_id: cta
-    title: Let’s Work Together!
+    title: Get Started Building Yours
     content: >-
       Say hello at [email@example.com](mailto:email@example.com) or tell us more
       about your project by getting started below.

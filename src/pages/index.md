@@ -52,7 +52,7 @@ sections:
         type: action
       - label: DIY
         url: '#'
-        style: icon
+        style: button
         icon: dribbble
         new_window: false
         no_follow: false

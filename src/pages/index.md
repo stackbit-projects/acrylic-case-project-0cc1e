@@ -50,7 +50,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: lorem-ipsum
+      - label: DIY
         url: '#'
         style: link
         icon: dribbble

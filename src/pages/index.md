@@ -29,7 +29,7 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     title: Keyboards
-    subtitle: 'We Designs Cases '
+    subtitle: We Design Cases For Common PCBS
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio

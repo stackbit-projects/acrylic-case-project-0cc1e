@@ -35,7 +35,6 @@ sections:
     view_all_url: portfolio
   - section_id: lorem-ipsum
     title: What Is A Stacked Acrylic Case?
-    subtitle: 'Learn '
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum

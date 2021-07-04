@@ -43,7 +43,7 @@ sections:
       - label: Group Buy
         url: /contact
         style: button
-      - label: lorem-ipsum
+      - label: Order
         url: '#'
         style: link
         icon: dribbble

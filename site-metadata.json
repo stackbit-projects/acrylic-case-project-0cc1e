@@ -24,6 +24,15 @@
                 "style": "link"
             },
             {
+                "label": "FAQ",
+                "url": "#",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Guides",
                 "url": "/blog/",
                 "style": "link"
@@ -32,15 +41,6 @@
                 "label": "Purchase",
                 "url": "/contact/",
                 "style": "button"
-            },
-            {
-                "label": "FAQ",
-                "url": "#",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },

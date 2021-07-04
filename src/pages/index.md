@@ -43,6 +43,13 @@ sections:
       - label: Group Buy
         url: /contact
         style: button
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light

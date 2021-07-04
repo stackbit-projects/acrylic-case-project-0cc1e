@@ -48,7 +48,7 @@ sections:
 
       - dolor sit amet
     type: content_section
-    subtitle: 'The most accessible '
+    subtitle: 'Learn about '
   - type: grid_section
     section_id: clients
     title: Clients

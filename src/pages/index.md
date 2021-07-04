@@ -40,7 +40,7 @@ sections:
       Say hello at [email@example.com](mailto:email@example.com) or tell us more
       about your project by getting started below.
     actions:
-      - label: Let's start
+      - label: Group Buy
         url: /contact
         style: button
     image: images/cta.svg

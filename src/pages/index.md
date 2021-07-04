@@ -29,7 +29,7 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     title: Keyboards
-    subtitle: Cases designed for popular pcbs
+    subtitle: Cases Designed For Popular Keyboard PCBS
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
